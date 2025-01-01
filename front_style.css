@@ -101,22 +101,22 @@ header {
 }
 
 .cta-btn {
-    color: #76f57d; /* Red color */
-    transition: color 0.3s ease; /* Smooth color transition */
+    color: #76f57d; 
+    transition: color 0.3s ease; 
     text-decoration: none;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .cta-btn:hover {
-    color: #37f437; /* Green color on hover */
+    color: #37f437; 
 }
 
 #about {
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #000000;
-    background-color: hsl(178, 13%, 52%); /* Replace with your desired color */
-    padding: 20px; /* Optional: Add padding for better spacing */
+    background-color: hsl(178, 13%, 52%); 
+    padding: 20px; 
 }
 
 footer {
